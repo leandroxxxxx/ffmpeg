@@ -65,9 +65,6 @@ If you extract a video named `ActionShot.mp4`, the frames will look like:
 5.  Find your frames in the new folder created next to your video.
 
 ---
-Here is the **English version** of the README section for the **Multi Trim Merge** script, fully aligned with the existing style of your document:
-
----
 
 ## Script Multi Trim Merge
 
