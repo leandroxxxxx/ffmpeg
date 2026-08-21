@@ -1,10 +1,10 @@
 @echo off
-title FFmpeg - Extrair Frames (Versao Blindada)
+title FFmpeg - Extrair Frames
 :: Força o terminal a entender acentos (UTF-8)
 chcp 65001 >nul
 
 echo ================================================
-echo FFmpeg - Extrair Frames (Suporte a Acentos e Virgulas)
+echo FFmpeg - Extrair Frames
 echo ================================================
 
 :: 1. Solicitação do Arquivo
